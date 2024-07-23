@@ -1,0 +1,23 @@
+[33mcommit 95250b1d50a87d33ea4f7bd92d3cd64e4c2b40ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nathan Alex <nate745@gmail.com>
+Date:   Tue Jul 23 13:29:30 2024 -0500
+
+    Testing "Git Commit"
+
+[33mcommit cd3b4710b73df8f8c4456e23f75f8e605c8538bf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nathan Alex <nate745@gmail.com>
+Date:   Tue Jul 23 13:20:11 2024 -0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 6e52116be498fc5069a7d2bc2a2b6cea0cd490a8[m
+Author: Nathan Alex <nate745@gmail.com>
+Date:   Tue Jul 23 13:15:24 2024 -0500
+
+    Add hello_world.txt
+
+[33mcommit 2caf6acecbe3d2d07f98d5a32ce0bc452da25444[m
+Author: nate745 <25651524+nate745@users.noreply.github.com>
+Date:   Tue Jul 23 13:10:43 2024 -0500
+
+    Initial commit
